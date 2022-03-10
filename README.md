@@ -1,5 +1,5 @@
 # TDA572-Shard-and-RushB
-The Shard and RushB is implemented in TDA572 Game engine Architecture at Chalmers University of Technology. Based on the Shard v1.0, some new systems and features have been added. Additionally, implementing a feature complete example game to show the function of the engine.
+The Shard and RushB is implemented in TDA572 Game engine Architecture at Chalmers University of Technology. The course provided Shard as the base game engine, where I added some new systems and features. Additionally, implementing a feature complete example game to show the function of the engine.
 
 # RushB
 It is a normal turn-based game. Players and the AI take turns controlling their soldiers, and those who have already acted need to wait until the next turn.
